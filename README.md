@@ -36,3 +36,4 @@ sequenceDiagram
 
     Note right of browser: The browser executes the callback function that renders the notes
 ```
+![image](https://github.com/Diefat17/Part0/assets/164238800/ad5b751d-28a1-4837-a466-e8459b5dafc3)
